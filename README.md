@@ -2,8 +2,8 @@
 This repository contains the data analysis, R scripts, and academic report for a Business Analytics project investigating customer attrition (churn) within the Sri Lankan telecommunication sector. The objective of this project is to develop statistical decision models that support evidence-based, data-driven decision-making for customer retention.
 
 ## 📂 Repository Contents
-*   **`Telecom_Info_Updated_V2.csv`**: The dataset containing 5,000 customer records with attributes such as monthly charges, data usage, customer tenure, and churn probability.
-*   **`st20345433 CSE5011 R CODE.R`**: The complete R script containing all data manipulation, statistical testing, and visualization code.
+*   **`Telecom_Info_Updated_V2.csv`**
+*   **`st20345433 CSE5011 R CODE.R`**
 
 ## 🛠 Tools & Technologies
 *   **Language:** R
