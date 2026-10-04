@@ -25,7 +25,7 @@ This repository contains the data analysis, R scripts, and academic report for a
 ## 🚀 How to Run the Code
 1. Clone this repository to your local machine.
 2. Ensure you have R and RStudio installed.
-3. Open `st20345433 CSE5011 R CODE.R` in RStudio.
+3. Open `st20345433 CSE5014 R CODE.R` in RStudio.
 4. Set your working directory to the folder containing the dataset:
    ```R
    setwd("path/to/your/folder")
